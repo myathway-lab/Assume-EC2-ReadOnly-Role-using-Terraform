@@ -4,7 +4,7 @@ Master account assumes “EC2 Readonly role” to Dev account.
 We have two AWS accounts for assume role testing.
 
 ```yaml
-**Master account id	582xxxxx195
+Master account id	582xxxxx195
 Dev account id	767xxxxx3373**
 ```
 
