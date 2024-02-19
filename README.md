@@ -5,7 +5,7 @@ We have two AWS accounts for assume role testing.
 
 ```yaml
 Master account id	582xxxxx195
-Dev account id	767xxxxx3373**
+Dev account id	767xxxxx3373
 ```
 
 <aside>
