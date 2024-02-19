@@ -1,4 +1,4 @@
-#In this lab, I will create "EC2" role in Master acc "582xxxxx195" & Assume this role to Dev acc "767xxxxx3373".
+# In this lab, I will create "EC2" role in Master acc "582xxxxx195" & Assume this role to Dev acc "767xxxxx3373".
 
 
 I need two AWS accounts for assume role testing.
