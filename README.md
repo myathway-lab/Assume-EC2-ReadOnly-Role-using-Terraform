@@ -11,10 +11,8 @@ Master account id	582xxxxx195
 Dev account id	767xxxxx3373
 ```
 
-<aside>
-💡 **let’s demonstrate to create the IAM role which has EC2 read only access in Master account. Then assume this role to Dev account.**
 
-</aside>
+
 
 - version.tf
     
